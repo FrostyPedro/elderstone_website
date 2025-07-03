@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background: linear-gradient(120deg, #181a29 0%, #292f4b 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Georgia', serif;
+}
+
+.container {
+  text-align: center;
+  color: #f3f3f3;
+}
+
+h1 {
+  font-size: 4rem;
+  letter-spacing: 0.15em;
+  font-family: 'Cinzel', serif;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 1rem;
+  color: #bda27a;
+}
+
+.copyright {
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  color: #999;
+}
